@@ -1,0 +1,20 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "backend project using node",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "project",
+    "node",
+    "backend"
+  ],
+  "author": "vish sutar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
